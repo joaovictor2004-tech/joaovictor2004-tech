@@ -64,5 +64,30 @@ Sou estudante de desenvolvimento de software e estou em busca de oportunidades p
 
 
 
+---
+
+<h2 align="center">📊 Estatísticas do GitHub</h2>
+
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=joaovictor2004-tech&theme=github_dark" alt="Estatísticas do GitHub" />
+</div>
+
+
+---
+
+<h2 align="center">💻 Linguagens mais utilizadas</h2>
+
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictor2004-tech&layout=compact&theme=github_dark&langs_count=8"
+    alt="Linguagens mais utilizadas no GitHub"
+  />
+</div>
+
+
+
+
+
+
 
 
