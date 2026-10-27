@@ -85,6 +85,17 @@ Sou estudante de desenvolvimento de software e estou em busca de oportunidades p
 </div>
 
 
+---
+
+## 🎯 Objetivos profissionais
+
+- 💼 Buscando uma oportunidade de estágio em desenvolvimento de software.
+- 💻 Aprimorando meus conhecimentos em desenvolvimento web.
+- 🚀 Desenvolvendo projetos práticos para evoluir minhas habilidades.
+- 🤝 Aberto a oportunidades de aprendizado e colaboração em equipe.
+
+
+
 
 
 
